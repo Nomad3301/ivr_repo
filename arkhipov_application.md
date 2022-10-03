@@ -1,4 +1,4 @@
-# Архипов Сергей - "Small game"
+# Архипов Сергей - "Nether Blues"
 ## Группа: 11-И-1
 ## Электронная почта: sergo.arkhipov@gmail.com
 ## VK: https://vk.com/no_heomo
