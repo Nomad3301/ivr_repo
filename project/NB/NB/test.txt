@@ -1,3 +1,0 @@
-qwerty : True
-qwertyйцукенйцукен : False
- : False
